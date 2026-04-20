@@ -29,18 +29,12 @@ The goal of this project is to build a scalable admin interface that helps organ
 
 ---
 
-## 📷 Screenshots
-
-*Add screenshots of your dashboard here*
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/react-admin-dashboard.git
+   git clone https://github.com/PreetG/react-admin-dashboard.git
    ```
 
 2. Navigate to the project folder:
@@ -81,8 +75,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## 📬 Contact
 
 **Preet Gharjale**
-📧 [your-email@gmail.com](mailto:your-email@gmail.com)
-🔗 LinkedIn: *Add your profile link*
+📧 Mailto: preet16qy@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/preet-gharjale/
 
 ---
 
